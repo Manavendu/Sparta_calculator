@@ -1,0 +1,81 @@
+body{
+
+  background-color: lightgrey;
+}
+
+.formsstyle{
+
+  width: 300px;
+  height: 400px;
+  margin:auto;
+}
+#clear{
+  width: 100px;
+}
+input{
+  width:50px;
+}
+
+#answerstyle{
+
+  width: 155px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* // alert("hello")
+var a =50;
+var b =10;
+var sum = a+b;
+var minus= a-b;
+var mult= a*b;
+var div=a/b;
+
+name1=prompt("what is your name?");
+age1=parseInt(prompt("Your age ?"));
+name2=prompt("what is your name?");
+age2=parseInt(prompt("Your age ?"));
+name3=prompt("what is your name?");
+age3=parseInt(prompt("Your age ?"));
+
+if(age1>age2)
+  console.log(name1+" is older");
+else if(age2>age3)
+  {
+  console.log(name2+" is older");
+  }
+  else if(age3>age2)
+ {
+  console.log(name3+" is older")
+  }
+else if ( age1== age2=age3 )
+{
+  console.log("All are equal");
+}
+else if ( age1 == age2)
+{
+  console.log("First two are equal ages");
+}
+else if ( age2 == age3)
+{
+  console.log("Last two are equal and his");
+}
+else if ( age1 == age3)
+{
+  console.log("First and last are equal");
+}
+else {
+  console.log(" I am confused");
+} */
